@@ -5,7 +5,7 @@
 
 ## ✦ About
 
-At NeuraScribe.AI I ship LLM features for candidate matching and resume parsing and lift monthly revenue **5–10%**. At Genpact I raised a Random Forest classifier from **78% to 86%** accuracy and improved GPU utilization by **22%**.
+At NeuraScribe.AI I ship LLM features with RAG, structured outputs and function calling, design evaluation suites for quality, grounding and latency, and built anomaly detection and billing systems that lift monthly revenue **5–10%**. At Genpact I raised a Random Forest classifier from **78% to 86%** accuracy and improved GPU utilization by **22%**.
 
 ## ✦ Selected work
 
@@ -36,7 +36,7 @@ Includes 81 tests at 99% coverage.
 
 | Period | Role | Company | Highlights |
 |--------|------|---------|------------|
-| *Jul 2025 – Present* | Machine Learning Engineer | NeuraScribe.AI | Lifted monthly revenue **5–10%**. |
+| *Jul 2025 – Present* | Machine Learning Engineer | NeuraScribe.AI | Ships generative AI features (RAG, structured outputs, function calling) via FastAPI; designed LLM evaluation suites for answer quality, factual grounding, edge cases and latency; built anomaly detection for failed payments, usage anomalies and duplicate records, and billing systems that lifted monthly revenue **5–10%**. |
 | *Jul 2021 – Aug 2023* | Machine Learning Engineer | Genpact | Raised Random Forest accuracy from **78% to 86%** using Bayesian optimization and cut run time from **3 minutes to 1 minute**; improved GPU utilization by **22%**. |
 
 ## ✦ Credentials
